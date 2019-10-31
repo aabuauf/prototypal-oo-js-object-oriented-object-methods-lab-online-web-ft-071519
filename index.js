@@ -8,6 +8,6 @@ function BoardMember (name,homeState,training){
   }
   
     function approve (){
-    return "No, I must disagree"
+    return "You can do that!"
   }
 }
