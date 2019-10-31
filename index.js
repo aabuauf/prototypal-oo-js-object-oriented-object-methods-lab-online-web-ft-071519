@@ -18,4 +18,8 @@ function BoardMember (name,homeState,training){
       function releasePressStatement (){
     return "You will see great things from Scuber."
   }
+  
+      function releasePressStatement (){
+    return "You will see great things from Scuber."
+  }
 }
