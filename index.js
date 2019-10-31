@@ -10,4 +10,8 @@ function BoardMember (name,homeState,training){
     function approve (){
     return "You can do that!"
   }
+  
+    function approve (){
+    return "You can do that!"
+  }
 }
