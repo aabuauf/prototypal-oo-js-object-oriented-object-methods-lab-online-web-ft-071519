@@ -1,3 +1,4 @@
-function BoardMember (){
+function BoardMember (name){
+  this.name=name
   
 }
