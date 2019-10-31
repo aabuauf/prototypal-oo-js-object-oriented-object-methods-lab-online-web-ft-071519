@@ -11,7 +11,7 @@ function BoardMember (name,homeState,training){
     return "You can do that!"
   }
   
-    function approve (){
+    function doCharity  (){
     return "You can do that!"
   }
 }
