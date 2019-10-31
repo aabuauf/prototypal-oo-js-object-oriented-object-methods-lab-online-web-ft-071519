@@ -19,7 +19,7 @@ function BoardMember (name,homeState,training){
     return "You will see great things from Scuber."
   }
   
-      function releasePressStatement (){
+      function sayHi  (){
     return "You will see great things from Scuber."
   }
 }
