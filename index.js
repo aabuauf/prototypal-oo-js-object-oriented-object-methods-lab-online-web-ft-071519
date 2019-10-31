@@ -7,7 +7,7 @@ function BoardMember (name,homeState,training){
     return "No, I must disagree"
   }
   
-    function veto(){
+    function approve (){
     return "No, I must disagree"
   }
 }
