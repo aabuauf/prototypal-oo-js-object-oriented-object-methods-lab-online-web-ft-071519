@@ -14,4 +14,8 @@ function BoardMember (name,homeState,training){
     function doCharity  (){
     return "I like to help people."
   }
+  
+      function doCharity  (){
+    return "I like to help people."
+  }
 }
