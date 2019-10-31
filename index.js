@@ -15,7 +15,7 @@ function BoardMember (name,homeState,training){
     return "I like to help people."
   }
   
-      function doCharity  (){
+      function releasePressStatement (){
     return "I like to help people."
   }
 }
